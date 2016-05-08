@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">League of pushups</string>
+
+    <!-- Strings related to login -->
+    <string name="summonername">Summoner name</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Search</string>
+    <string name="error_summonername_not_found">This summoner name is not found on this server</string>
+    <string name="error_field_required">This field is required</string>
+
+</resources>
